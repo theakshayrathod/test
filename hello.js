@@ -11,3 +11,10 @@ ABCD
 
 
 DAC KDAC
+
+
+# restart the machine
+sudo reboot
+
+or
+https://docs.docker.com/engine/install/ubuntu/
