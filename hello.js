@@ -18,3 +18,27 @@ sudo reboot
 
 or
 https://docs.docker.com/engine/install/ubuntu/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//  sumedh uploaded from this device
